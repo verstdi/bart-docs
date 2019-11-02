@@ -9,6 +9,6 @@ Execute the wanted version of the BART jar file. The arguments "user" and "passw
 
 Example |
 ------------ | 
-java -jar bart-0.0.1 user=admin password=E%k&11Bxl-40f|
+java -jar bart-0.0.1.jar user=admin password=E%k&11Bxl-40f|
 
 The user and password represents the administrator access able to call the rest service "/report".
