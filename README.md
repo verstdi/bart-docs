@@ -1,5 +1,6 @@
 # bart-docs
 Project containing all the documents and useful informations concerning the project BART https://github.com/verstdi/bart
+![Image of architecture](https://github.com/verstdi/bart-docs/edit/master/pics/im00002_architecture.png)
 
 # Security
 [HTTPS](https://github.com/verstdi/bart-docs/blob/master/https.md) is adviced for production and other sensitive environments.
