@@ -5,7 +5,7 @@ B A R T |
 # bart-docs
 Project containing all the documents and useful informations concerning the project BART https://github.com/verstdi/bart-releases
 
-![Image of architecture](https://github.com/verstdi/bart-docs/edit/master/pics/im00002_architecture.png)
+![Embedded Image of architecture](/pics/im00002_architecture.png)
 
 # Security
 [HTTPS](https://github.com/verstdi/bart-docs/blob/master/https.md) is adviced for production and other sensitive environments.
@@ -27,7 +27,7 @@ In the downloaded version of jar of the application, add in the folder "/report"
 
 # Test BART
 ## Check availability
-![Image of check availability](https://github.com/verstdi/bart-docs/edit/master/pics/im00003_check.png)
+![Image of check availability](/pics/im00003_check.png)
 ## Test the example report included in BART
 Use a tool permitting to do REST requests.
 Put the user-password you've defined for the BART administrator
@@ -38,4 +38,4 @@ Example |
 ------------ | 
 {"template":"R0002_SchoolClassExample","parameters":[{"key":"school_name","value":"Elementary School"}],"json":"{\"code\":\"1A\",\"description\":\"Elementary school - class 1A\",\"students\":[{\"firstname\":\"Helena\",\"lastname\":\"Cassidy\"},{\"firstname\":\"Jules\",\"lastname\":\"Smith\"},{\"firstname\":\"Emma\",\"lastname\":\"Kennedy\"},{\"firstname\":\"Bug\",\"lastname\":\"Danny\"},{\"firstname\":\"John\",\"lastname\":\"Doe\"}],\"teachers\":[{\"firstname\":\"Bart\",\"lastname\":\"Van Den Bergh\",\"skills\":[{\"code\":\"MATH\",\"description\":\"Mathematics\"},{\"code\":\"PHYS\",\"description\":\"Physics\"}]},{\"firstname\":\"Emma\",\"lastname\":\"Kennedy\",\"skills\":[{\"code\":\"ENG\",\"description\":\"English\"}]},{\"firstname\":\"Piet\",\"lastname\":\"Dubucq\",\"skills\":[{\"code\":\"GYM\",\"description\":\"Sports\"}]}]}"}|
 
-![Image of test report](https://github.com/verstdi/bart-docs/edit/master/pics/im00004_test.png)
+![Image of test report](/pics/im00004_test.png)
