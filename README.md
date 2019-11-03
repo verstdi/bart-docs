@@ -17,3 +17,9 @@ This user-password must be present at each restart of the application (and must 
 The password must be provided only to the applications authorized to call the application BART.
 The password can be shared via an application for password like KeePass for example and must not be shown to anybody of course.
 
+# Add reports to the application
+In the downloaded version of jar of the application, add in the folder "/report" all the jasper files and eventual pictures
+
+# Test BART
+## Check availability
+## Test the example report included in BART
