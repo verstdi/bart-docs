@@ -6,7 +6,7 @@ Project containing all the documents and useful informations concerning the proj
 [HTTPS](https://github.com/verstdi/bart-docs/blob/master/https.md) is adviced for production and other sensitive environments.
 
 # Installation
-Execute the wanted version of the BART jar file. The arguments "user" and "password" are mandatory
+Execute the wanted version of the BART jar file. The arguments "user" and "password" are mandatory and up to you.
 
 Example |
 ------------ | 
@@ -22,4 +22,6 @@ In the downloaded version of jar of the application, add in the folder "/report"
 
 # Test BART
 ## Check availability
+![Image of check availability](https://github.com/verstdi/bart-docs/edit/master/pics/im00003_check.png)
 ## Test the example report included in BART
+![Image of test example](https://github.com/verstdi/bart-docs/edit/master/pics/im00004_example.png)
