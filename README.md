@@ -1,6 +1,4 @@
-B A R T |
------------- | 
-**Business Agnostic Report Tool** | 
+![Embedded logo](/pics/logo.png)
 
 # bart-docs
 Project containing all the documents and useful informations concerning the project BART https://github.com/verstdi/bart-releases
