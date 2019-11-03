@@ -31,8 +31,6 @@ Put the next json in the request body:
 
 Example |
 ------------ | 
-{
-"template":"R0002_SchoolClassExample",
-"parameters":[{"key":"school_name","value":"Elementary School"}],
-"json":"{\"code\":\"1A\",\"description\":\"Elementary school - class 1A\",\"students\":[{\"firstname\":\"Helena\",\"lastname\":\"Cassidy\"},{\"firstname\":\"Jules\",\"lastname\":\"Smith\"},{\"firstname\":\"Emma\",\"lastname\":\"Kennedy\"},{\"firstname\":\"Bug\",\"lastname\":\"Danny\"},{\"firstname\":\"John\",\"lastname\":\"Doe\"}],\"teachers\":[{\"firstname\":\"Bart\",\"lastname\":\"Van Den Bergh\",\"skills\":[{\"code\":\"MATH\",\"description\":\"Mathematics\"},{\"code\":\"PHYS\",\"description\":\"Physics\"}]},{\"firstname\":\"Emma\",\"lastname\":\"Kennedy\",\"skills\":[{\"code\":\"ENG\",\"description\":\"English\"}]},{\"firstname\":\"Piet\",\"lastname\":\"Dubucq\",\"skills\":[{\"code\":\"GYM\",\"description\":\"Sports\"}]}]}"
+{"template":"R0002_SchoolClassExample",
+"parameters":[{"key":"school_name","value":"Elementary School"}],"json":"{\"code\":\"1A\",\"description\":\"Elementary school - class 1A\",\"students\":[{\"firstname\":\"Helena\",\"lastname\":\"Cassidy\"},{\"firstname\":\"Jules\",\"lastname\":\"Smith\"},{\"firstname\":\"Emma\",\"lastname\":\"Kennedy\"},{\"firstname\":\"Bug\",\"lastname\":\"Danny\"},{\"firstname\":\"John\",\"lastname\":\"Doe\"}],\"teachers\":[{\"firstname\":\"Bart\",\"lastname\":\"Van Den Bergh\",\"skills\":[{\"code\":\"MATH\",\"description\":\"Mathematics\"},{\"code\":\"PHYS\",\"description\":\"Physics\"}]},{\"firstname\":\"Emma\",\"lastname\":\"Kennedy\",\"skills\":[{\"code\":\"ENG\",\"description\":\"English\"}]},{\"firstname\":\"Piet\",\"lastname\":\"Dubucq\",\"skills\":[{\"code\":\"GYM\",\"description\":\"Sports\"}]}]}"
 }|
