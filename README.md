@@ -1,5 +1,5 @@
 # bart-docs
-Project containing all the documents and useful informations concerning the project BART https://github.com/verstdi/bart
+Project containing all the documents and useful informations concerning the project BART https://github.com/verstdi/bart-releases
 ![Image of architecture](https://github.com/verstdi/bart-docs/edit/master/pics/im00002_architecture.png)
 
 # Security
